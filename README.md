@@ -1,3 +1,3 @@
 # Cheatsheet
 
-This repository consists of all the cheatsheets related to ggplot and python.   
+This repository consists of all the cheatsheets related to R, Python, and Matlab.   
